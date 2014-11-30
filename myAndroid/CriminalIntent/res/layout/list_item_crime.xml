@@ -8,6 +8,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:enabled="false"
+        android:focusable="false"
         android:gravity="center"
         android:padding="4dp" />
 
